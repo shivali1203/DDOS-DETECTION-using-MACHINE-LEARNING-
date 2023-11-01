@@ -1,4 +1,4 @@
-# DDOS-ML-Detection
+# DDOS-DETECTION-using-MACHINE-LEARNING
 This project uses a simple feedforward network to determine if incoming network packets are from one of four types of ddos attacks or are a normal request.
 
 # Dataset Download:
